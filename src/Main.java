@@ -8,7 +8,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);//Цикл будет работать, пока пользователь не введет `end`
         while (true) {
-            // Выводим информацию о возможных операциях пользователю
+            // Выводим меню пользователя
             System.out.println("Выберите операцию и введите её номер:");
             System.out.println("1. Добавить новый доход");
             System.out.println("2. Добавить новый расход");
